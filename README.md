@@ -1,4 +1,9 @@
-# social_ui_kit
+# Social UI KIT App
+
+- [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
+- [Watch on youtube](https://youtu.be/dNuulspzl-s)
+
+![APP](https://user-images.githubusercontent.com/16510597/147914626-288ce44a-ea50-48c3-b4ec-c2dad66456a9.jpeg)
 
 A new Flutter project.
 
